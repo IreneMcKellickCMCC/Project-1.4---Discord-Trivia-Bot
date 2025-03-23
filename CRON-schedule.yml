@@ -27,4 +27,4 @@ jobs:
 
       - name: Execute Code
         run: | #Runs the script
-           python trivia-bot.py
+           python triviabot.py
